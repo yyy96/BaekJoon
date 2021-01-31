@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class bj_1000 {
+public class baekjoon_1000 {
 
 	public static void main(String[] args) {
 		
