@@ -14,6 +14,7 @@ public class baekjoon_1000 {
             System.out.println(C);
         }
         
+        
 	}
 
 }
