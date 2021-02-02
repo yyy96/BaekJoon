@@ -1,3 +1,4 @@
+package step_01;
 import java.util.Scanner;
 public class baekjoon_1000 {
 

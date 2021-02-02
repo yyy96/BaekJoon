@@ -1,3 +1,4 @@
+package step_01;
 import java.util.*;
 public class baekjoon_2588 {
 
